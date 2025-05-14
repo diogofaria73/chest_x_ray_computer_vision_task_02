@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+data/*/NORMAL/*
+data/*/PNEUMONIA/*
+modelo_treinado.h5
+modelo_treinado.keras
+temp.jpg
+chest_xray_data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Poetry
+poetry.lock
+
+# Logs
+*.log
+.coverage
+htmlcov/ 
