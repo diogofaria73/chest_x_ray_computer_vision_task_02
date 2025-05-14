@@ -42,9 +42,6 @@ modelo_treinado.keras
 temp.jpg
 chest_xray_data/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
 
 # Poetry
 poetry.lock
